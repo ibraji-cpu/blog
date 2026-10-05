@@ -1,5 +1,6 @@
 baseURL: "https://blog.iraamalia.id"
-languageCode: "id-ID"
+defaultContentLanguage: "id"
+locale: "id-ID"
 title: "Blog Ira Amalia"
 theme: ["PaperMod"]
 enableRobotsTXT: true
