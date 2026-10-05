@@ -5,6 +5,7 @@ draft: false
 ai_generated: true
 risiko_editorial: sedang
 tags: ["satu data", "RUU Satu Data", "privasi", "kebijakan publik"]
+description: "RUU Satu Data Indonesia segera disahkan. Ini 3 tuntutan penting agar penyatuan data digunakan untuk melayani rakyat, bukan memperbudak atau mendiskriminasi."
 ---
 
 *Opini Ira Amalia — 5 Oktober 2026*
@@ -15,13 +16,13 @@ Besok, 6 Oktober 2026, DPR menargetkan pengesahan RUU Satu Data Indonesia — 17
 
 Kedengarannya bagus. Dan sebagian memang bagus. Tapi aku mau menitipkan tiga pesan sebelum palu diketok — karena undang-undang ini bukan soal server dan interoperabilitas. Ini soal siapa yang berdaulat atas data ratusan juta manusia.
 
-**Pertama: kedaulatan digital harus di tangan rakyat.**
+## Pertama: Kedaulatan Digital Harus di Tangan Rakyat
 
 Data kependudukanmu — NIK, KK, tanggal lahir, nama orang tuamu — itu bukan milik negara. Negara hanya *dititipi* untuk mengelolanya. Tapi lihat rekam jejaknya: sekitar 337 juta data Dukcapil pernah tersebar ilegal — nama, NIK, nomor KK, alamat, sampai nomor akta lahir dan akta nikah. Diungkap pakar keamanan siber Teguh Aprianto, dijual di forum peretas seharga 8.000 dolar AS. Yang menanggung rugi? Rakyat. Yang dikritik tidak transparan? BSSN dan Kominfo.
 
 Jadi pertanyaanku sederhana: kalau data yang *tersebar* saja tidak ada yang bertanggung jawab, bagaimana kita percaya data yang *disatukan* akan dijaga? RUU ini mewajibkan pengguna data menjaga keamanan dan kerahasiaan — bagus di atas kertas. Tapi kertas tidak menghentikan peretas. Yang menghentikan adalah pengawas independen yang berani menghukum, dan itu belum jelas ada di mana.
 
-**Kedua: yang terdata dan yang belum terdata harus diperlakukan setara.**
+## Kedua: Yang Terdata dan Belum Terdata Harus Diperlakukan Setara
 
 Ini yang paling jarang dibicarakan. "Satu data" kedengarannya inklusif, tapi dalam praktiknya data juga bisa jadi alat penyingkiran. Hari ini saja: KTP elektronik dan NIK aktif adalah syarat mutlak bansos — tanpa itu, peluang menerima bantuan adalah nol, sekalipun kamu miskin dan lapar. Di Kabupaten Minahasa Tenggara, 2.308 warga tak punya e-KTP dan tak masuk database — kata aparat setempat, mereka "akan sulit dapat bansos". Di Depok, aktivasi KTP Digital (IKD) baru 10,44 persen per September 2026, padahal IKD diproyeksikan jadi kunci akses portal Perlinsos Digital.
 
@@ -29,7 +30,7 @@ Bayangkan ketika "satu data" menjadi satu-satunya pintu menuju layanan negara. M
 
 Maka tuntutanku: undang-undang ini wajib memuat jaminan non-diskriminasi. Hak atas pelayanan tidak boleh gugur hanya karena data seseorang belum masuk sistem. Negara yang berhak menuntut warganya terdata adalah negara yang terlebih dahulu datang mendata — bukan negara yang menghukum yang tak terdata dengan mencabut haknya.
 
-**Ketiga: etika penggunaan data.**
+## Ketiga: Etika Penggunaan Data
 
 Data yang disatukan adalah kekuasaan yang disatukan. Pertanyaannya bukan cuma "aman dari peretas atau tidak", tapi "dipakai untuk apa". Apakah data kesehatanku boleh dipakai untuk menilai kelayakanku menerima bantuan? Apakah data lokasiku boleh dipakai aparat tanpa perintah pengadilan? RUU ini mengatur kewajiban menjaga kerahasiaan — tapi siapa yang mengawasi pengawasnya? Kritik yang beredar sudah menuntutnya: pengawas independen, sanksi tegas, mekanisme pengaduan dan pemulihan bagi korban kebocoran. Aku ikut menuntut hal yang sama.
 
