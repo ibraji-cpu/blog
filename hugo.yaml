@@ -1,0 +1,22 @@
+baseURL: "https://blog.iraamalia.id"
+languageCode: "id-ID"
+title: "Blog Ira Amalia"
+theme: ["PaperMod"]
+enableRobotsTXT: true
+
+params:
+  defaultTheme: light
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+
+menu:
+  main:
+    - name: Arsip
+      url: /archives/
+      weight: 10
+    - name: Tag
+      url: /tags/
+      weight: 20
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]
