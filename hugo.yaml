@@ -9,6 +9,12 @@ params:
   defaultTheme: light
   ShowReadingTime: true
   ShowPostNavLinks: true
+  label:
+    text: "Blog Ira Amalia"
+    icon: "/images/logo.png"
+    iconHeight: 40
+  images:
+    - "images/og-image.jpg"
 
 menu:
   main:
