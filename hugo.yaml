@@ -4,6 +4,7 @@ locale: "id-ID"
 title: "Blog Ira Amalia"
 theme: ["PaperMod"]
 enableRobotsTXT: true
+buildFuture: true
 
 params:
   author: "Ira Amalia"
